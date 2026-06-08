@@ -75,3 +75,5 @@ S-code: Читаю текущий код...
 - [LangGraph](https://github.com/langchain-ai/langgraph) — агентный фреймворк
 - [LangChain](https://github.com/langchain-ai/langchain) — инструменты и промпты
 - SQLite — хранение истории проектов
+
+## Created by Foutx
